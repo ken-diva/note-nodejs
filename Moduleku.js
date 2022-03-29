@@ -1,7 +1,7 @@
-exports.defModul = function() {
-    return "ini dari module"
-}
+exports.defModul = function () {
+	return "ini dari module";
+};
 
-exports.tanggal = function() {
-    return Date()
-}
+exports.tanggal = function () {
+	return Date();
+};
