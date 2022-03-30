@@ -1,0 +1,1 @@
+Untuk join, where, dsb, bisa dilihat lagi di (tutorial node_mysql w3school)[https://www.w3schools.com/nodejs/nodejs_mysql.asp]
